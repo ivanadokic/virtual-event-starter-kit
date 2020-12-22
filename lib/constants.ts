@@ -61,7 +61,7 @@ export const NAVIGATION = [
     route: '/schedule'
   },
   {
-    name: 'Speakers',
+    name: 'This can be changed',
     route: '/speakers'
   },
   {
